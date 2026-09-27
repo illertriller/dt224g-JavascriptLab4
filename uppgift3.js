@@ -1,11 +1,11 @@
 /* Uppgift 3 av Martin Sohlberg, 2026 */
 
-const age = 30;
+const age = 64;
 
-if (0-17){
+if (age < 18){
     console.log("Barn");
-    
-}   else if (18-64){
+
+}   else if (age < 65){
     console.log("Vuxen");
 
 }   else {
