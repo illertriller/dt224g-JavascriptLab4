@@ -7,5 +7,6 @@ let dishes = ["Kebab", "Burgare", "Kålpudding", "Carbonara", "Älggryta"]
     console.log(dishes[dishes.length - 1])
 
     dishes.push("Fiskgratäng");
+    dishes.shift();
 
     console.log(dishes);
