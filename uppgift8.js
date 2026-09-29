@@ -9,7 +9,7 @@ let bok = {
 
 function printBok(bok) {
     console.log("Titel: " + bok.titel);
-    console.log("Författare: " + bok.titel);
+    console.log("Författare: " + bok.författare);
     console.log("Utgivningsår: " + bok.utgivningsår);
 }
 
