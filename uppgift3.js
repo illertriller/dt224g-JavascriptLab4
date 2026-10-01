@@ -1,4 +1,5 @@
 /* Uppgift 3 av Martin Sohlberg, 2026 */
+"use strict";
 
 //Valfri ålder anges här
 const age = 64;
